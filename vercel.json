@@ -1,7 +1,7 @@
 {
   "redirects": [
     {       "source": "/",       
-      "destination": "/bila",       
+      "destination": "/billa",       
       "permanent": true     
     }
   ],
