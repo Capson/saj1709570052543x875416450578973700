@@ -1,6 +1,9 @@
 {
   "redirects": [
-    {       "source": "/",       "destination": "/bila",       "permanent": true     }
+    {       "source": "/",       
+      "destination": "/bila",       
+      "permanent": true     
+    }
   ],
   "rewrites": [
     {
