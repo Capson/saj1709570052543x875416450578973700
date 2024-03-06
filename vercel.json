@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "redirects": [
+    {       "source": "/",       "destination": "/bila",       "permanent": true     }
+  ],
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://reto.dorik.io/$1"
+      "source": "(/.*)",
+      "destination": "https://reto.dorik.io/$1"
     }
   ]
 }
